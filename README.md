@@ -24,6 +24,8 @@ Purescript's FP strengths should remain the number one goal. We need a grownup F
 
   Take inspiration from the options provided by Rescript - https://rescript-lang.org/docs/manual/latest/embed-raw-javascript
 
+  One way to allow that without committing to a specific backend is by letting users create compiler plugins like GHC - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/extending_ghc.html#compiler-plugins.
+
 2. Better typeclass representations. *elaborate*.
 3. Better datatype representations. *elaborate*.
 
