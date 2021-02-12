@@ -14,9 +14,11 @@ Purescript's FP strengths should remain the number one goal. We need a grownup F
 
 ## Projects
 
-### Compiler ergonomics
+### Compiler and tooling ergonomics
 
 1. Better, more user friendly error messages.
+2. A standard code autoformatter.
+3. Tool to suggest changes based on changelog across major versions.
 
 ### Code output improvements
 
@@ -33,7 +35,7 @@ Purescript's FP strengths should remain the number one goal. We need a grownup F
 
 Ideas -
 
-1. Ruby-on-Rails-esque one size fits all solution for web dev.
+1. Ruby-on-Rails-esque one size fits all solution for web dev. Preferably with server side integration.
 
 ### Ecosystem
 
@@ -42,10 +44,6 @@ Ideas -
 3. List of best in class library alternatives for each usecase.
 4. A cookbook for common recipes
 5. TryPurescript could do with some more features, e.g. being able to share snippets without github gists, better IDE support.
-
-### Backward compatibility
-
-1. Tool to suggest changes based on changelog across major versions.
 
 ### Language improvements
 
